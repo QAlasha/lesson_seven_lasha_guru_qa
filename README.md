@@ -1,0 +1,1 @@
+# lesson_seven_lasha_guru_qa
