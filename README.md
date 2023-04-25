@@ -1,1 +1,1 @@
-# lesson_seven_lasha_guru_qa
+# qa_guru_python_5_7
